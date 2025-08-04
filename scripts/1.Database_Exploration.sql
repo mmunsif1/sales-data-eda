@@ -1,0 +1,10 @@
+/* 1.RANKING-BASED EDA */
+
+-- Explore All objects in Database
+SELECT *
+FROM INFORMATION_SCHEMA.TABLES
+
+-- Explore All columns in Databse
+SELECT *
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'orders'
