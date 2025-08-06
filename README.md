@@ -10,8 +10,7 @@ This project performs a complete SQL-based exploratory data analysis (EDA) on sa
 
 - Table used: `orders`
 - Sample fields: `order_id`, `product_name`, `sales`, `profit`, `order_date`, `region`, `ship_mode`, `customer_segment`, etc.
-- Source: hackernoon.com/15-excel-datasets-for-data-analytics-beginners
-
+- Source: https://hackernoon.com/15-excel-datasets-for-data-analytics-beginners
 
 
 ### 2. Dimension-Based EDA
@@ -42,20 +41,8 @@ Aggregates metrics by:
 
 ---
 
-## Sample Output Metrics
-
-| Metric                     | Value (Example)    |
-|---------------------------|--------------------|
-| Total Sales               | $2,297,201         |
-| Total Orders              | 9,994              |
-| Average Discount (%)      | 11.50%             |
-| Top-Selling Product       | "Canon Copier 500" |
-| Profit Margin (%)         | 8.75%              |
-
----
 
 ## DBMS Used
-
 - SQL Server
 
 ---
@@ -77,13 +64,11 @@ Aggregates metrics by:
 
 ---
 
-## Contact
+## Contact:
+LinkedIn: https://www.linkedin.com/in/muhammad-munsif
 
-Feel free to connect or ask questions!
+Tableau: https://www.public.tableau.com/app/profile/muhammadmunsif
 
-- Author: Muhmmad Munsif
-- LinkedIn: linkedin.com/in/muhammad-munsif/
-- Tableau: public.tableau.com/app/profile/muhammadmunsif/vizzes
 ---
 
-- Last Updated: 2025-08-04
+**Last Updated: 2025-08-06**
